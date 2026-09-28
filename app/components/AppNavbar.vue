@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const links = [
   { to: '/', label: 'Início' },
-  { to: '/sobre', label: 'Sobre' },
+  { to: '/example', label: 'Example' },
   { to: '/cadastro', label: 'Cadastro' }
 ]
 </script>

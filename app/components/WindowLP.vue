@@ -1,0 +1,7 @@
+<template>
+  <div class="mockup-window bg-base-100 border border-base-300">
+    <div class="grid place-content-center h-80">
+      Exemplo da nossa aplicação
+    </div>
+  </div>
+</template>
